@@ -1,0 +1,19 @@
+{
+  "name": "vinyl-mail",
+  "version": "0.1.0",
+  "description": "Send Vinyl files as email.",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Birbeck <mark.birbeck@gmail.com> (http://markbirbeck.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "adapter-filters": "^0.5.2",
+    "event-stream": "^3.3.1",
+    "express-handlebars": "^2.0.1",
+    "lodash": "^3.10.0",
+    "nodemailer": "^1.4.0",
+    "nodemailer-express-handlebars": "^1.0.0"
+  }
+}
