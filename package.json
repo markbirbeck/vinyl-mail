@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"No tests yet but returning success for deploy\" && exit 0"
   },
+  "keywords": [
+    "vinyl",
+    "gulpfriendly",
+    "email"
+  ],
   "author": "Mark Birbeck <mark.birbeck@gmail.com> (http://markbirbeck.com/)",
   "license": "MIT",
+  "repository": "markbirbeck/vinyl-mail",
+  "bugs": "https://github.com/markbirbeck/vinyl-mail/issues",
+  "homepage": "https://github.com/markbirbeck/vinyl-mail",
   "dependencies": {
     "adapter-filters": "^0.5.2",
     "event-stream": "^3.3.1",
