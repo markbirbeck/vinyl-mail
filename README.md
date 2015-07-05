@@ -1,6 +1,8 @@
 # vinyl-mail
 Send Vinyl files as email.
 
+[![wercker status](https://app.wercker.com/status/06a100a7fc8b027a5a17878091a063c4/m/master "wercker status")](https://app.wercker.com/project/bykey/06a100a7fc8b027a5a17878091a063c4)
+
 ## Example
 
 The first thing to do is to create a Mail stream:
