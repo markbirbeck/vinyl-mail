@@ -1,7 +1,7 @@
 # vinyl-mail
 Send Vinyl files as email.
 
-[![wercker status](https://app.wercker.com/status/06a100a7fc8b027a5a17878091a063c4/m/master "wercker status")](https://app.wercker.com/project/bykey/06a100a7fc8b027a5a17878091a063c4)
+[![wercker status](https://app.wercker.com/status/06a100a7fc8b027a5a17878091a063c4/s/master "wercker status")](https://app.wercker.com/project/bykey/06a100a7fc8b027a5a17878091a063c4) [![Dependency Status](https://david-dm.org/markbirbeck/vinyl-mail.svg)](https://david-dm.org/markbirbeck/vinyl-mail)
 
 ## Example
 
